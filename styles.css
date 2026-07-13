@@ -290,7 +290,7 @@ button { color: inherit; }
   .brand-mark { width: 36px; height: 36px; }
   .desktop-nav { display: none; }
   .menu-button { display: block; }
-  .mobile-menu { position: fixed; inset: 68px 0 0; z-index: 49; display: flex; flex-direction: column; gap: 20px; padding: 54px 22px; background: var(--paper); opacity: 0; visibility: hidden; transform: translateY(-12px); transition: opacity .2s ease, visibility .2s ease, transform .2s ease; }
+  .mobile-menu { position: fixed; inset: 68px 0 0; z-index: 49; display: flex; flex-direction: column; gap: 20px; min-height: calc(100dvh - 68px); padding: 54px 22px; background-color: var(--paper); background-image: linear-gradient(145deg, var(--paper) 0%, var(--paper-deep) 100%); opacity: 0; visibility: hidden; transform: translateY(-12px); transition: opacity .2s ease, visibility .2s ease, transform .2s ease; }
   .mobile-menu.is-open { opacity: 1; visibility: visible; transform: none; }
   .mobile-menu a { padding: 14px 0; border-bottom: 1px solid var(--line); font-size: 34px; font-weight: 600; letter-spacing: -.04em; }
   .hero { padding-top: 48px; }
