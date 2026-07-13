@@ -38,10 +38,10 @@ const translations = {
     caseQelaTag: "Community platform · Mobile + Admin",
     caseQelaTitle: "Система взаємодії, що перетворює активність на відчутний результат.",
     caseQelaBody: "Спроєктував ключові сценарії мобільного застосунку та адмінпанелі: квести, винагороди, магазин, замовлення й модерацію.",
-    caseVprytulTag: "Громадська взаємодія · Mobile",
-    caseVprytulName: "ВПРИТУЛ",
-    caseVprytulTitle: "Єдина структура для дій, донатів і взаємодії зі спільнотою.",
-    caseVprytulBody: "Адаптував продуктову модель під новий бренд: навігація, підписки на донати, квести, рейтинг, чати й профіль.",
+    caseCivicTag: "Громадська взаємодія · Mobile",
+    caseCivicName: "Проєкт під NDA",
+    caseCivicTitle: "Єдина структура для дій, донатів і взаємодії зі спільнотою.",
+    caseCivicBody: "Адаптував продуктову модель під новий бренд: навігація, підписки на донати, квести, рейтинг, чати й профіль.",
     caseZelvoTag: "Фінансовий продукт · Web",
     caseZelvoTitle: "Фінансові сценарії без зайвого когнітивного навантаження.",
     caseZelvoBody: "Робота над вебпродуктом, де статуси, суми та наступні кроки мають бути однозначними. Деталі кейсу — після перевірки NDA.",
@@ -69,7 +69,7 @@ const translations = {
     dialogNote: "Це прев’ю кейсу. Додайте повну сторінку, коли матеріали будуть готові.",
     dialogs: {
       qela: { kicker: "Qela · Product design", title: "Мобільний продукт і адмінсистема як єдине ціле.", body: "Моя зона відповідальності охоплювала логіку ключових сценаріїв, структуру мобільного застосунку, магазин винагород, замовлення та інструменти адміністрування. Повний кейс може показати проблему, обмеження, рішення й результат без розкриття конфіденційних деталей." },
-      vprytul: { kicker: "ВПРИТУЛ · White-label product", title: "Нова продуктова модель у впізнаваному бренді.", body: "Фокус — адаптація інформаційної архітектури та основних сценаріїв: донати, квести, рейтинг, чати, сповіщення й профіль. Повну версію варто доповнити порівнянням до/після та ключовими рішеннями." },
+      civic: { kicker: "Проєкт під NDA · White-label product", title: "Нова продуктова модель у впізнаваному бренді.", body: "Фокус — адаптація інформаційної архітектури та основних сценаріїв: донати, квести, рейтинг, чати, сповіщення й профіль. Повну версію варто доповнити порівнянням до/після та ключовими рішеннями." },
       zelvo: { kicker: "Zelvo · Financial product", title: "Ясність у продукті з високою ціною помилки.", body: "Кейс може сфокусуватися на роботі зі статусами, даними, фінансовими діями й системною послідовністю інтерфейсу. Публічні деталі потрібно визначити після перевірки умов NDA." }
     }
   },
@@ -110,10 +110,10 @@ const translations = {
     caseQelaTag: "Community platform · Mobile + Admin",
     caseQelaTitle: "An engagement system that turns activity into tangible outcomes.",
     caseQelaBody: "Designed core flows across the mobile app and admin panel: quests, rewards, shop, order management, and moderation.",
-    caseVprytulTag: "Civic engagement · Mobile",
-    caseVprytulName: "VPRYTUL",
-    caseVprytulTitle: "One coherent structure for action, donations, and community engagement.",
-    caseVprytulBody: "Adapted the product model for a new brand: navigation, recurring donations, quests, ranking, chats, and profile.",
+    caseCivicTag: "Civic engagement · Mobile",
+    caseCivicName: "NDA-protected project",
+    caseCivicTitle: "One coherent structure for action, donations, and community engagement.",
+    caseCivicBody: "Adapted the product model for a new brand: navigation, recurring donations, quests, ranking, chats, and profile.",
     caseZelvoTag: "Financial product · Web",
     caseZelvoTitle: "Financial flows without unnecessary cognitive load.",
     caseZelvoBody: "Product design for a web platform where statuses, amounts, and next steps must stay unambiguous. Case details are subject to NDA review.",
@@ -141,7 +141,7 @@ const translations = {
     dialogNote: "This is a case preview. Add a full case page when the materials are ready.",
     dialogs: {
       qela: { kicker: "Qela · Product design", title: "One connected mobile product and admin system.", body: "My scope covered the logic of core flows, mobile app architecture, the rewards shop, order management, and administration tools. A full case can show the problem, constraints, decisions, and outcome without exposing confidential details." },
-      vprytul: { kicker: "VPRYTUL · White-label product", title: "A new product model inside a recognisable brand.", body: "The focus was adapting the information architecture and core flows: donations, quests, ranking, chats, notifications, and profile. A full version should add before-and-after comparisons and the rationale behind key decisions." },
+      civic: { kicker: "NDA-protected project · White-label product", title: "A new product model inside a recognisable brand.", body: "The focus was adapting the information architecture and core flows: donations, quests, ranking, chats, notifications, and profile. A full version should add before-and-after comparisons and the rationale behind key decisions." },
       zelvo: { kicker: "Zelvo · Financial product", title: "Clarity in a product where mistakes are costly.", body: "The case can focus on statuses, data, financial actions, and systematic interface behaviour. Public details should be defined after the NDA terms are reviewed." }
     }
   }

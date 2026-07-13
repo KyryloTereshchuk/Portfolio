@@ -5,7 +5,7 @@ Responsive one-page portfolio in Ukrainian and English. Built with plain HTML, C
 ## Page structure
 
 1. **Hero** — positioning, experience, focus, location, and primary CTA.
-2. **Selected work** — Qela, ВПРИТУЛ, and Zelvo case previews.
+2. **Selected work** — Qela, an NDA-protected project, and Zelvo case previews.
 3. **Process** — four stages from context to implementation.
 4. **Contact** — availability statement and email CTA.
 
@@ -30,5 +30,5 @@ The terminal will show the local preview URL. A simple `python3 -m http.server 4
 ## Content notes
 
 - No product metrics were invented.
-- The Qela and ВПРИТУЛ descriptions use known product scope.
+- The Qela and NDA-protected project descriptions use known product scope.
 - The Zelvo description is intentionally broad because the public NDA scope is not defined.
