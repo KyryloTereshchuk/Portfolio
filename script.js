@@ -66,7 +66,7 @@ const translations = {
     placeholderNote: "Замініть email у файлі",
     rights: "Усі права захищені.",
     backTop: "На початок",
-    dialogNote: "Це прев’ю кейсу. Додайте повну сторінку, коли матеріали будуть готові.",
+    dialogNote: "Це прев’ю кейсу. Повна сторінка буде додана, коли матеріали будуть готові.",
     dialogs: {
       qela: { kicker: "Qela · Product design", title: "Мобільний продукт і адмінсистема як єдине ціле.", body: "Моя зона відповідальності охоплювала логіку ключових сценаріїв, структуру мобільного застосунку, магазин винагород, замовлення та інструменти адміністрування. Повний кейс може показати проблему, обмеження, рішення й результат без розкриття конфіденційних деталей." },
       civic: { kicker: "Проєкт під NDA · White-label product", title: "Нова продуктова модель у впізнаваному бренді.", body: "Фокус — адаптація інформаційної архітектури та основних сценаріїв: донати, квести, рейтинг, чати, сповіщення й профіль. Повну версію варто доповнити порівнянням до/після та ключовими рішеннями." },
@@ -138,7 +138,7 @@ const translations = {
     placeholderNote: "Replace the email in",
     rights: "All rights reserved.",
     backTop: "Back to top",
-    dialogNote: "This is a case preview. Add a full case page when the materials are ready.",
+    dialogNote: "This is a case preview. Full case page will be added when the materials are ready.",
     dialogs: {
       qela: { kicker: "Qela · Product design", title: "One connected mobile product and admin system.", body: "My scope covered the logic of core flows, mobile app architecture, the rewards shop, order management, and administration tools. A full case can show the problem, constraints, decisions, and outcome without exposing confidential details." },
       civic: { kicker: "NDA-protected project · White-label product", title: "A new product model inside a recognisable brand.", body: "The focus was adapting the information architecture and core flows: donations, quests, ranking, chats, notifications, and profile. A full version should add before-and-after comparisons and the rationale behind key decisions." },
