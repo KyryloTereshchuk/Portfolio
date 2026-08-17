@@ -1,4 +1,4 @@
-const CONTACT_EMAIL = "krill.profdesign@gmail.com";
+const CONTACT_EMAIL = "kirillyastremskyi@gmail.com";
 
 const translations = {
   uk: {

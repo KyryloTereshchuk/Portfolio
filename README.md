@@ -22,7 +22,7 @@ The terminal will show the local preview URL. A simple `python3 -m http.server 4
 
 ## Before publishing
 
-- Replace `your.email@example.com` in `script.js`.
+- Confirm the contact email in `script.js` before publishing.
 - Review what can be disclosed publicly for each case, especially Zelvo.
 - Replace the case preview dialogs with full case-study pages when materials are ready.
 - Add analytics only after choosing a privacy-compliant setup.
